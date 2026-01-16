@@ -14,6 +14,7 @@ d = 4
 
 # Fully bracketed version
 e = (a - ((b ** c) // d)) + (a % c)
+print("Question 3 result is: ", e)
 
 
 # Question 4: Formatting
