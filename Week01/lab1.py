@@ -19,3 +19,9 @@ e = (a - ((b ** c) // d)) + (a % c)
 # Question 4: Formatting
 temperature = 32.6
 print("The temperature today is: {:.3f} degrees Celsius".format(temperature))
+
+
+# Question 5: Common Functions
+userAge = int(input("Enter your age: "))
+userAge = userAge + 22
+print("Now showing the shop items filtred by age", userAge)
