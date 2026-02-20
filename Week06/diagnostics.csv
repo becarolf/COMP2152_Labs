@@ -1,0 +1,4 @@
+2026-02-20 11:27:24,arp,local,14 devices,Captured
+2026-02-20 11:27:45,nslookup,github.com,140.82.114.3,Success
+2026-02-20 11:28:30,ifconfig,en0,4e:da:ad:72:09:08 / 10.4.80.140,Captured
+2026-02-20 11:33:27,ping,georgebrown.ca,N/A,Failed
